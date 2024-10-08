@@ -1,0 +1,7 @@
+Ciao!|Ciao, come posso aiutarti?
+Come va?|Sto bene, grazie! E tu?
+Qual è il tuo nome?|Sono un chatbot, non ho un nome.
+Qual è la tua funzione?|Aiuto a rispondere alle tue domande.
+Dove sei?|Sono nel tuo computer!
+Che tempo fa?|Non posso controllare il meteo, ma posso aiutarti con altre informazioni.
+Grazie!|Prego! Se hai altre domande, chiedi pure.
